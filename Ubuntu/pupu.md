@@ -15,3 +15,5 @@
 Виртуальная память процессора - аналог диспечера задач на windows
 
 В файлы можно записывать значения, изменяя этим параметры системы
+![rrr](https://user-images.githubusercontent.com/90152615/152759433-2eec867e-4489-47aa-b45d-c4f9d4129764.png)
+![ooo](https://user-images.githubusercontent.com/90152615/152759465-29f89d09-792f-4e17-ae96-c14f631d088b.png)
