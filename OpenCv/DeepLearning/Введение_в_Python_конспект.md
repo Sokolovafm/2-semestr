@@ -91,7 +91,8 @@ file.close()<br>
 </b>
 
 <p>Режимы открытия файла:</p>
-![image](https://user-images.githubusercontent.com/90152615/175834091-35ec81ef-4e5e-4652-8d1c-bcdfd1431e2c.png)
+![image](https://user-images.githubusercontent.com/90152615/175834101-d7a6bc78-a259-4a06-9c07-0b8e05799c9f.png)
+
 
 
 
