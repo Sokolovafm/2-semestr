@@ -91,9 +91,14 @@ file.close()<br>
 </b>
 
 <p>Режимы открытия файла:</p>
-![image](https://user-images.githubusercontent.com/90152615/175834112-92845947-36f3-48f5-a0cd-5b22aeb23193.png)
 
+![image](https://user-images.githubusercontent.com/90152615/175834131-ce0c8fff-90a0-4521-ab3d-6c9cb40263d1.png)
 
+<h3>Коллекции</h3>
+<p>defaultdict() - класс словаря, у которого есть значение по умолчанию - порой очень пригождается</p>
+<p>Counter() - класс словаря, предназначенного для счётчиков. По сути, == defaultdict(int)</p>
+
+<p>Мы познакомились с языком Python. Дальше нас ждёт знакомство с библиотеками NumPy, SciPy и Matplotlib, часто импользуемыми в анализе данных.</p>
 
 
 
