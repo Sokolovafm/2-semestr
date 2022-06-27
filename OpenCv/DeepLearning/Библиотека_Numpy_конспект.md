@@ -61,3 +61,13 @@
     
   ![image](https://user-images.githubusercontent.com/90152615/175880123-7e9d04cb-e7cb-4653-9e44-9938381a499f.png)
 
+<p>Если типы элементов разные, то идет каст к большему</p>
+
+    print(a + np.arrange(11, dtype='int16'))
+    print(type(a[0]))
+    
+![image](https://user-images.githubusercontent.com/90152615/175880653-41e18a35-9eea-4f85-81b1-7b46d607f50a.png)
+
+<p>В Numpy есть элементарные функции, которые тоже приманяются к массивам поэлементно. Они называются универсальными функциями (ufunc)</p>
+
+    type(np.cos)
