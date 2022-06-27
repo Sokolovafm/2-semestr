@@ -6,3 +6,6 @@ https://stepik.org/course/109539/
 
 ![image](https://user-images.githubusercontent.com/90152615/175837593-38bcb49c-c6a6-43f4-84a7-9f1cfdae5c04.png)
 
+![image](https://user-images.githubusercontent.com/90152615/175839156-d18187f7-7395-4620-a7d5-935f0a592e22.png)
+
+![image](https://user-images.githubusercontent.com/90152615/175839177-83f076ca-b9c2-42e6-845f-e900503980a6.png)
